@@ -59,7 +59,7 @@ class NewVisitorTest(LiveServerTestCase):        #(1)
         #Satisfied, she goes back to sleep
         
 
-        self.fail('Finish the test')
+        #self.fail('Finish the test')
 
     def wait_for_row_in_list_table(self, row_text):
         start_time = time.time()
